@@ -1,7 +1,29 @@
-streamlit
+# Core web frameworks
 fastapi
 uvicorn
+streamlit
+
+# SPARQL and RDF processing
+SPARQLWrapper
 requests
+pydantic
+
+# Environment handling
+dotenv
+python-dotenv
+
+# AI/LLM-based processing
+langchain
+langchain-openai
+transformers
+
+# Data formatting
 pandas
 pyyaml
-SPARQLWrapper
+
+# Optional: for development
+ipython
+httpx
+
+# Minimum Python version
+# python>=3.8

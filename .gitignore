@@ -5,6 +5,8 @@ env/
 .env/
 .env
 myvenv/
+.env.example
+
 
 # Ignore system files
 __pycache__/
